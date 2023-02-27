@@ -1,0 +1,102 @@
+{
+   "locatari": [
+      {
+         "user": "andrei1",
+         "password": "abcd1",
+         "address": "level1, apartment 2",
+         "name": "Andrei Ionescu",
+         "balance": -110
+      },
+      {
+         "user": "adrian1",
+         "password": "abcd2",
+         "address": "level1, apartment 3",
+         "name": "Dumitru Adrian",
+         "balance": 50
+      },
+      {
+         "user": "alex1",
+         "password": "abcd3",
+         "address": "level1, apartment 4",
+         "name": "Alexandru Ion",
+         "balance": 50
+      },
+      {
+         "user": "liviu2",
+         "password": "abcd4",
+         "address": "level2, apartment 2",
+         "name": "Liviu Andrei",
+         "balance": 50
+      },
+      {
+         "user": "claudiu",
+         "password": "abcde1",
+         "address": "level2, apartment 3",
+         "name": "Claudiu George",
+         "balance": 50
+      },
+      {
+         "user": "andreea1",
+         "password": "abcde2",
+         "address": "level2, apartment 6",
+         "name": "Ionescu Andreea",
+         "balance": 50
+      },
+      {
+         "user": "maria1",
+         "password": "abcde4",
+         "address": "level2, apartment 6",
+         "name": "Maria Popescu",
+         "balance": 50
+      },
+      {
+         "user": "marius1",
+         "password": "12345",
+         "address": "level 1, apartment 8",
+         "name": "Marius Andrei",
+         "balance": 50
+      },
+      {
+         "user": "andreimarin",
+         "password": "123456",
+         "address": "level1, apartment 39",
+         "name": "Andrei Marin",
+         "balance": -50
+      },
+      {
+         "user": "marius2",
+         "password": "abcd2",
+         "address": "level 4, apartment 12",
+         "name": " Marius Popescu",
+         "balance": 100
+      },
+      {
+         "user": "despa1",
+         "password": "123456",
+         "address": "level 3, apartment 5",
+         "name": "Despa Gabriel",
+         "balance": 100
+      },
+      {
+         "user": "alexandru1",
+         "password": "1234",
+         "address": "level 3, apartment 5",
+         "name": "Andrei Alexandru",
+         "balance": 90
+      },
+      {
+         "user": "despa2",
+         "password": "123",
+         "address": "level 1, apartment 1",
+         "name": "Despa Gabi",
+         "balance": 100
+      },
+      {
+         "user": "ioan_radu",
+         "password": "12345",
+         "address": "et 3 apartament 26",
+         "name": "Ioan Radu Gava",
+         "balance": 50
+      }
+   ]
+}
